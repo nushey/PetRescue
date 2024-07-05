@@ -16,8 +16,9 @@ Nahuel Zeballos, Patricio Lopez, Juan Manuel Duarte
 © 2024 Nahuel Zeballos, Patricio Lopez, Juan Manuel Duarte. Todos los derechos reservados.
 
 ## Instrucciones de Instalación
-1. Clonar el repositorio:
-2. Navegar al directorio del proyecto
-3. Ejecutar el instalador de la aplicación
+1. Dirigirse al link: https://www.mediafire.com/file/cn4qyvrxuq3kbax/PetRescue+Setup.exe/file
+2. Descargar
+3. Ejecutar archivo "PetRescue Setup.exe"
+   
 
 
