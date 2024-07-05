@@ -19,6 +19,9 @@ Nahuel Zeballos, Patricio Lopez, Juan Manuel Duarte
 1. Dirigirse al link: https://www.mediafire.com/file/cn4qyvrxuq3kbax/PetRescue+Setup.exe/file
 2. Descargar
 3. Ejecutar archivo "PetRescue Setup.exe"
+
+## Ejecución
+1. Ejecutar el archivo como administrador, en caso contrario no funcionará
    
 
 
