@@ -13,11 +13,11 @@ Esta aplicación es una herramienta de gestión de mascotas construida utilizand
 Nahuel Zeballos, Patricio Lopez, Juan Manuel Duarte
 
 ## Derechos de Autor
-© 2024 Nahuel Zeballos. Todos los derechos reservados.
+© 2024 Nahuel Zeballos, Patricio Lopez, Juan Manuel Duarte. Todos los derechos reservados.
 
 ## Instrucciones de Instalación
 1. Clonar el repositorio:
 2. Navegar al directorio del proyecto
-3. Ejectuar el instalador de la aplicación
+3. Ejecutar el instalador de la aplicación
 
 
